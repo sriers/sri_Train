@@ -1,0 +1,502 @@
+[
+ {
+   "ORDER_ID": 2458,
+   "ORDER_DATE": "16-AUG-07 03.34.12.234359 PM",
+   "ORDER_MODE": "direct",
+   "CUSTOMER_ID": 101,
+   "ORDER_STATUS": 0,
+   "ORDER_TOTAL": 78279.6,
+   "SALES_REP_ID": "153",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2397,
+   "ORDER_DATE": "19-NOV-07 02.41.54.696211 PM",
+   "ORDER_MODE": "direct",
+   "CUSTOMER_ID": 102,
+   "ORDER_STATUS": 1,
+   "ORDER_TOTAL": 42283.2,
+   "SALES_REP_ID": "154",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2454,
+   "ORDER_DATE": "02-OCT-07 05.49.34.678340 PM",
+   "ORDER_MODE": "direct",
+   "CUSTOMER_ID": 103,
+   "ORDER_STATUS": 1,
+   "ORDER_TOTAL": 6653.4,
+   "SALES_REP_ID": "154",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2354,
+   "ORDER_DATE": "14-JUL-08 06.18.23.234567 PM",
+   "ORDER_MODE": "direct",
+   "CUSTOMER_ID": 104,
+   "ORDER_STATUS": 0,
+   "ORDER_TOTAL": 46257,
+   "SALES_REP_ID": "155",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2358,
+   "ORDER_DATE": "08-JAN-08 05.03.12.654278 PM",
+   "ORDER_MODE": "direct",
+   "CUSTOMER_ID": 105,
+   "ORDER_STATUS": 2,
+   "ORDER_TOTAL": 7826,
+   "SALES_REP_ID": "155",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2381,
+   "ORDER_DATE": "14-MAY-08 08.59.08.843679 PM",
+   "ORDER_MODE": "direct",
+   "CUSTOMER_ID": 106,
+   "ORDER_STATUS": 3,
+   "ORDER_TOTAL": 23034.6,
+   "SALES_REP_ID": "156",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2440,
+   "ORDER_DATE": "31-AUG-07 09.53.06.008765 PM",
+   "ORDER_MODE": "direct",
+   "CUSTOMER_ID": 107,
+   "ORDER_STATUS": 3,
+   "ORDER_TOTAL": 70576.9,
+   "SALES_REP_ID": "156",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2357,
+   "ORDER_DATE": "08-JAN-06 08.19.44.123456 PM",
+   "ORDER_MODE": "direct",
+   "CUSTOMER_ID": 108,
+   "ORDER_STATUS": 5,
+   "ORDER_TOTAL": 59872.4,
+   "SALES_REP_ID": "158",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2394,
+   "ORDER_DATE": "10-FEB-08 09.22.35.564789 PM",
+   "ORDER_MODE": "direct",
+   "CUSTOMER_ID": 109,
+   "ORDER_STATUS": 5,
+   "ORDER_TOTAL": 21863,
+   "SALES_REP_ID": "158",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2435,
+   "ORDER_DATE": "02-SEP-07 11.22.53.134567 PM",
+   "ORDER_MODE": "direct",
+   "CUSTOMER_ID": 144,
+   "ORDER_STATUS": 6,
+   "ORDER_TOTAL": 62303,
+   "SALES_REP_ID": "159",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2455,
+   "ORDER_DATE": "20-SEP-07 11.34.11.456789 AM",
+   "ORDER_MODE": "direct",
+   "CUSTOMER_ID": 145,
+   "ORDER_STATUS": 7,
+   "ORDER_TOTAL": 14087.5,
+   "SALES_REP_ID": "160",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2379,
+   "ORDER_DATE": "16-MAY-07 02.22.24.234567 AM",
+   "ORDER_MODE": "direct",
+   "CUSTOMER_ID": 146,
+   "ORDER_STATUS": 8,
+   "ORDER_TOTAL": 17848.2,
+   "SALES_REP_ID": "161",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2396,
+   "ORDER_DATE": "02-FEB-06 01.34.56.345678 AM",
+   "ORDER_MODE": "direct",
+   "CUSTOMER_ID": 147,
+   "ORDER_STATUS": 8,
+   "ORDER_TOTAL": 34930,
+   "SALES_REP_ID": "161",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2406,
+   "ORDER_DATE": "29-JUN-07 04.41.20.098765 AM",
+   "ORDER_MODE": "direct",
+   "CUSTOMER_ID": 148,
+   "ORDER_STATUS": 8,
+   "ORDER_TOTAL": 2854.2,
+   "SALES_REP_ID": "161",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2434,
+   "ORDER_DATE": "13-SEP-07 05.49.30.647893 AM",
+   "ORDER_MODE": "direct",
+   "CUSTOMER_ID": 149,
+   "ORDER_STATUS": 8,
+   "ORDER_TOTAL": 268651.8,
+   "SALES_REP_ID": "161",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2436,
+   "ORDER_DATE": "02-SEP-07 06.18.04.378034 AM",
+   "ORDER_MODE": "direct",
+   "CUSTOMER_ID": 116,
+   "ORDER_STATUS": 8,
+   "ORDER_TOTAL": 6394.8,
+   "SALES_REP_ID": "161",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2446,
+   "ORDER_DATE": "27-JUL-07 07.03.08.302945 AM",
+   "ORDER_MODE": "direct",
+   "CUSTOMER_ID": 117,
+   "ORDER_STATUS": 8,
+   "ORDER_TOTAL": 103679.3,
+   "SALES_REP_ID": "161",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2447,
+   "ORDER_DATE": "27-JUL-08 08.59.10.223344 AM",
+   "ORDER_MODE": "direct",
+   "CUSTOMER_ID": 101,
+   "ORDER_STATUS": 8,
+   "ORDER_TOTAL": 33893.6,
+   "SALES_REP_ID": "161",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2432,
+   "ORDER_DATE": "14-SEP-07 09.53.40.223345 AM",
+   "ORDER_MODE": "direct",
+   "CUSTOMER_ID": 102,
+   "ORDER_STATUS": 10,
+   "ORDER_TOTAL": 10523,
+   "SALES_REP_ID": "163",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2433,
+   "ORDER_DATE": "13-SEP-07 10.19.00.654279 AM",
+   "ORDER_MODE": "direct",
+   "CUSTOMER_ID": 103,
+   "ORDER_STATUS": 10,
+   "ORDER_TOTAL": 78,
+   "SALES_REP_ID": "163",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2355,
+   "ORDER_DATE": "26-JAN-06 09.22.51.962632 AM",
+   "ORDER_MODE": "online",
+   "CUSTOMER_ID": 104,
+   "ORDER_STATUS": 8,
+   "ORDER_TOTAL": 94513.5,
+   "SALES_REP_ID": " - ",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2356,
+   "ORDER_DATE": "26-JAN-08 09.22.41.934562 AM",
+   "ORDER_MODE": "online",
+   "CUSTOMER_ID": 105,
+   "ORDER_STATUS": 5,
+   "ORDER_TOTAL": 29473.8,
+   "SALES_REP_ID": " - ",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2359,
+   "ORDER_DATE": "08-JAN-06 09.34.13.112233 PM",
+   "ORDER_MODE": "online",
+   "CUSTOMER_ID": 106,
+   "ORDER_STATUS": 9,
+   "ORDER_TOTAL": 5543.1,
+   "SALES_REP_ID": " - ",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2360,
+   "ORDER_DATE": "14-NOV-07 12.22.31.223344 PM",
+   "ORDER_MODE": "online",
+   "CUSTOMER_ID": 107,
+   "ORDER_STATUS": 4,
+   "ORDER_TOTAL": 990.4,
+   "SALES_REP_ID": " - ",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2361,
+   "ORDER_DATE": "13-NOV-07 01.34.21.986210 PM",
+   "ORDER_MODE": "online",
+   "CUSTOMER_ID": 108,
+   "ORDER_STATUS": 8,
+   "ORDER_TOTAL": 120131.3,
+   "SALES_REP_ID": " - ",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2362,
+   "ORDER_DATE": "13-NOV-07 02.41.10.619477 PM",
+   "ORDER_MODE": "online",
+   "CUSTOMER_ID": 109,
+   "ORDER_STATUS": 4,
+   "ORDER_TOTAL": 92829.4,
+   "SALES_REP_ID": " - ",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2363,
+   "ORDER_DATE": "23-OCT-07 05.49.56.346122 PM",
+   "ORDER_MODE": "online",
+   "CUSTOMER_ID": 144,
+   "ORDER_STATUS": 0,
+   "ORDER_TOTAL": 10082.3,
+   "SALES_REP_ID": " - ",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2364,
+   "ORDER_DATE": "28-AUG-07 06.18.45.942399 PM",
+   "ORDER_MODE": "online",
+   "CUSTOMER_ID": 145,
+   "ORDER_STATUS": 4,
+   "ORDER_TOTAL": 9500,
+   "SALES_REP_ID": " - ",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2365,
+   "ORDER_DATE": "28-AUG-07 07.03.34.003399 PM",
+   "ORDER_MODE": "online",
+   "CUSTOMER_ID": 146,
+   "ORDER_STATUS": 9,
+   "ORDER_TOTAL": 27455.3,
+   "SALES_REP_ID": " - ",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2366,
+   "ORDER_DATE": "28-AUG-07 08.59.23.144778 PM",
+   "ORDER_MODE": "online",
+   "CUSTOMER_ID": 147,
+   "ORDER_STATUS": 5,
+   "ORDER_TOTAL": 37319.4,
+   "SALES_REP_ID": " - ",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2367,
+   "ORDER_DATE": "27-JUN-08 09.53.32.335522 PM",
+   "ORDER_MODE": "online",
+   "CUSTOMER_ID": 148,
+   "ORDER_STATUS": 10,
+   "ORDER_TOTAL": 144054.8,
+   "SALES_REP_ID": " - ",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2368,
+   "ORDER_DATE": "26-JUN-08 10.19.43.190089 PM",
+   "ORDER_MODE": "online",
+   "CUSTOMER_ID": 149,
+   "ORDER_STATUS": 10,
+   "ORDER_TOTAL": 60065,
+   "SALES_REP_ID": " - ",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2369,
+   "ORDER_DATE": "26-JUN-07 11.22.54.009932 PM",
+   "ORDER_MODE": "online",
+   "CUSTOMER_ID": 116,
+   "ORDER_STATUS": 0,
+   "ORDER_TOTAL": 11097.4,
+   "SALES_REP_ID": " - ",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2370,
+   "ORDER_DATE": "27-JUN-08 12.22.11.647398 AM",
+   "ORDER_MODE": "online",
+   "CUSTOMER_ID": 117,
+   "ORDER_STATUS": 4,
+   "ORDER_TOTAL": 126,
+   "SALES_REP_ID": " - ",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2371,
+   "ORDER_DATE": "16-MAY-07 01.34.56.113356 AM",
+   "ORDER_MODE": "online",
+   "CUSTOMER_ID": 118,
+   "ORDER_STATUS": 6,
+   "ORDER_TOTAL": 79405.6,
+   "SALES_REP_ID": " - ",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2372,
+   "ORDER_DATE": "27-FEB-07 12.22.33.356789 AM",
+   "ORDER_MODE": "online",
+   "CUSTOMER_ID": 119,
+   "ORDER_STATUS": 9,
+   "ORDER_TOTAL": 16447.2,
+   "SALES_REP_ID": " - ",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2373,
+   "ORDER_DATE": "27-FEB-08 01.34.51.220065 AM",
+   "ORDER_MODE": "online",
+   "CUSTOMER_ID": 120,
+   "ORDER_STATUS": 4,
+   "ORDER_TOTAL": 416,
+   "SALES_REP_ID": " - ",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2374,
+   "ORDER_DATE": "27-FEB-08 02.41.45.109654 AM",
+   "ORDER_MODE": "online",
+   "CUSTOMER_ID": 121,
+   "ORDER_STATUS": 0,
+   "ORDER_TOTAL": 4797,
+   "SALES_REP_ID": " - ",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2375,
+   "ORDER_DATE": "26-FEB-07 03.49.50.459233 AM",
+   "ORDER_MODE": "online",
+   "CUSTOMER_ID": 122,
+   "ORDER_STATUS": 2,
+   "ORDER_TOTAL": 103834.4,
+   "SALES_REP_ID": " - ",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2376,
+   "ORDER_DATE": "07-JUN-07 06.18.08.883310 AM",
+   "ORDER_MODE": "online",
+   "CUSTOMER_ID": 123,
+   "ORDER_STATUS": 6,
+   "ORDER_TOTAL": 11006.2,
+   "SALES_REP_ID": " - ",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2377,
+   "ORDER_DATE": "07-JUN-07 07.03.01.001100 AM",
+   "ORDER_MODE": "online",
+   "CUSTOMER_ID": 141,
+   "ORDER_STATUS": 5,
+   "ORDER_TOTAL": 38017.8,
+   "SALES_REP_ID": " - ",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2378,
+   "ORDER_DATE": "24-MAY-07 08.59.10.010101 AM",
+   "ORDER_MODE": "online",
+   "CUSTOMER_ID": 142,
+   "ORDER_STATUS": 5,
+   "ORDER_TOTAL": 25691.3,
+   "SALES_REP_ID": " - ",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2380,
+   "ORDER_DATE": "16-MAY-07 09.53.02.909090 AM",
+   "ORDER_MODE": "online",
+   "CUSTOMER_ID": 143,
+   "ORDER_STATUS": 3,
+   "ORDER_TOTAL": 27132.6,
+   "SALES_REP_ID": " - ",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2382,
+   "ORDER_DATE": "14-MAY-08 10.19.03.828321 AM",
+   "ORDER_MODE": "online",
+   "CUSTOMER_ID": 144,
+   "ORDER_STATUS": 8,
+   "ORDER_TOTAL": 71173,
+   "SALES_REP_ID": " - ",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2383,
+   "ORDER_DATE": "12-MAY-08 11.22.30.545103 AM",
+   "ORDER_MODE": "online",
+   "CUSTOMER_ID": 145,
+   "ORDER_STATUS": 8,
+   "ORDER_TOTAL": 36374.7,
+   "SALES_REP_ID": " - ",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2384,
+   "ORDER_DATE": "12-MAY-08 12.22.34.525972 PM",
+   "ORDER_MODE": "online",
+   "CUSTOMER_ID": 146,
+   "ORDER_STATUS": 3,
+   "ORDER_TOTAL": 29249.1,
+   "SALES_REP_ID": " - ",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2385,
+   "ORDER_DATE": "08-DEC-07 11.34.11.331392 AM",
+   "ORDER_MODE": "online",
+   "CUSTOMER_ID": 147,
+   "ORDER_STATUS": 4,
+   "ORDER_TOTAL": 295892,
+   "SALES_REP_ID": " - ",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2386,
+   "ORDER_DATE": "06-DEC-07 12.22.34.225609 PM",
+   "ORDER_MODE": "online",
+   "CUSTOMER_ID": 148,
+   "ORDER_STATUS": 10,
+   "ORDER_TOTAL": 21116.9,
+   "SALES_REP_ID": " - ",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2387,
+   "ORDER_DATE": "11-MAR-07 03.34.56.536966 PM",
+   "ORDER_MODE": "online",
+   "CUSTOMER_ID": 149,
+   "ORDER_STATUS": 5,
+   "ORDER_TOTAL": 52758.9,
+   "SALES_REP_ID": " - ",
+   "PROMOTION_ID": " - "
+ },
+ {
+   "ORDER_ID": 2388,
+   "ORDER_DATE": "04-JUN-07 04.41.12.554435 PM",
+   "ORDER_MODE": "online",
+   "CUSTOMER_ID": 150,
+   "ORDER_STATUS": 4,
+   "ORDER_TOTAL": 282694.3,
+   "SALES_REP_ID": " - ",
+   "PROMOTION_ID": " - "
+ }
+]
